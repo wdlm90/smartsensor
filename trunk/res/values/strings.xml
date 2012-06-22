@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, SmartSensorActivity!</string>
+    <string name="app_name">SmartSensor</string>
+    <string name="sensor_service">Sensor service started</string>
+    <string name="SMS"></string>
+
+</resources>
